@@ -1,1 +1,1 @@
-# This is a reposity about my personal projects.
+# This is a repository about my personal projects. 
